@@ -1,0 +1,8 @@
+flask>=3.0
+vtracer>=0.6.11
+potracer>=0.0.4
+pillow>=10.0
+pillow-heif>=0.16
+opencv-python-headless>=4.8
+numpy>=1.26
+ezdxf>=1.1
